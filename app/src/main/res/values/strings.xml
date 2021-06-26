@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DiyDialogDemo</string>
+    <string name="basic_dialog">基本对话框</string>
+    <string name="list_dialog">列表对话框</string>
+    <string name="single_choose_dialog">单选对话框</string>
+    <string name="multiple_choice_dialog">多选对话框</string>
+    <string name="waiting_dialog">等待对话框</string>
+    <string name="progress_dialog">进度条对话框</string>
+    <string name="semi_diy_dialog">半自定义对话框</string>
+    <string name="full_diy_dialog">自定义对话框</string>
+    <string name="full_diy">完全自定义</string>
+    <string name="full_diy_dialog_btn">点一下</string>
+    <string name="full_diy_dialog_tv">完全自定义的Dialog</string>
+    <string name="diy_dialog_tv">自定义加强版的Dialog</string>
+</resources>

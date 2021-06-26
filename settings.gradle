@@ -1,0 +1,3 @@
+rootProject.name = "DiyDialogDemo"
+include ':app'
+include ':diydialog-kotlin'

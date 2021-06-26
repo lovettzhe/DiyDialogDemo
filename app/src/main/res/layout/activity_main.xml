@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_basic_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="@string/basic_dialog" />
+
+    <Button
+        android:id="@+id/btn_list_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="@string/list_dialog" />
+
+    <Button
+        android:id="@+id/btn_single_choose_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="@string/single_choose_dialog" />
+
+    <Button
+        android:id="@+id/btn_multiple_choice_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="@string/multiple_choice_dialog" />
+
+    <Button
+        android:id="@+id/btn_waiting_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="@string/waiting_dialog" />
+
+    <Button
+        android:id="@+id/btn_progress_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="@string/progress_dialog" />
+
+    <Button
+        android:id="@+id/btn_semi_diy_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="@string/semi_diy_dialog" />
+
+    <Button
+        android:id="@+id/btn_full_diy_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="@string/full_diy_dialog" />
+
+    <Button
+        android:id="@+id/btn_full_diy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="@string/full_diy" />
+
+</LinearLayout>
